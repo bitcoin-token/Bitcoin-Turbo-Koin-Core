@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BTK
+Comment=BTK P2P Cryptocurrency
+Comment[fr]=BTK, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=BTK, eşten eşe kriptografik sanal para birimi
+Exec=btk-qt %u
+Terminal=false
+Type=Application
+Icon=btk128
+MimeType=x-scheme-handler/btk;
+Categories=Office;Finance;
